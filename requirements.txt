@@ -1,0 +1,9 @@
+torch==2.6.0
+transformers==4.51.3
+accelerate==1.6.0
+mistral_common==1.11.7
+huggingface_hub==0.34.4
+datasets==3.5.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+numpy==1.26.4
